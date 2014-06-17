@@ -6,8 +6,7 @@
   <packaging>zip</packaging>
   <version>0.2.4-SNAPSHOT</version>
   <name>Drcreference Plugin</name>
-  <description>DRC references plugin
-</description>
+  <description>DRC references plugin</description>
   <url>http://grails.org/plugin/drcreference</url>
   <developers>
     <developer>
