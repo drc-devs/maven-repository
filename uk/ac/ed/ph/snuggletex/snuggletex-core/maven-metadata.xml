@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>uk.ac.ed.ph.snuggletex</groupId>
+  <artifactId>snuggletex-core</artifactId>
+  <versioning>
+    <release>1.2.2-c003</release>
+    <versions>
+      <version>1.2.2-c002</version>
+      <version>1.2.2-c003</version>
+      <version>1.2.2-c001</version>
+    </versions>
+    <lastUpdated>20140829151845</lastUpdated>
+  </versioning>
+</metadata>
